@@ -1,4 +1,4 @@
-# NodeJS Koa Boilerplate
+# NodeJS Koa Boilerplate (Flow)
 
 <img src="https://i.imgur.com/Z0vXT6v.png"/>
 
