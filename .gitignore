@@ -7,6 +7,8 @@ npm-debug.log*
 
 _DS_Store
 
+dist/
+
 # Runtime data
 pids
 *.pid
