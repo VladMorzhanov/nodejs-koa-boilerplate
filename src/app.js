@@ -20,7 +20,7 @@ export const createApp = container => {
     .use(cors())
     .use(bodyParser())
     .use(scopePerRequest(container))
-    .use(loadControllers('./controllers/*.ts', { cwd: __dirname }))
+    .use(loadControllers('./controllers/*.js', { cwd: __dirname }))
     .use(notFoundHandler)
 
   logger.info('Koa application created!')

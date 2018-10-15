@@ -33,7 +33,8 @@ This boilerplate contains such folders:
 ## NPM Scripts
 
 - start - run dev server using nodemon
-- serve - run production server
+- build - build project with babel
+- serve - run built files
 
 ## Main Technologies and libraries
 

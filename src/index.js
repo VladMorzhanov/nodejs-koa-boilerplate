@@ -1,3 +1,4 @@
+import '@babel/polyfill'
 import http from 'http'
 import { createDatabaseConnection } from './db'
 import { createApp } from './app'

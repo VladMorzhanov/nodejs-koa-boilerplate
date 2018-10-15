@@ -20,6 +20,7 @@
     "@koa/cors": "2",
     "awilix": "^3.0.9",
     "awilix-koa": "^2.1.1",
+    "@babel/polyfill": "^7.0.0",
     "bcrypt-nodejs": "0.0.3",
     "dotenv": "^6.0.0",
     "jsonwebtoken": "^5.7.0",
