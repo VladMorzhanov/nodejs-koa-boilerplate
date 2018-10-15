@@ -12,8 +12,8 @@ Use these steps to install project
 
 1. Create Postgres databse (you can use official <a href="https://hub.docker.com/_/postgres/">Docker</a> container)
 2. Add environment variables
-3. npm i
-4. npm start
+3. yarn install
+4. yarn start
 
 ## Usage
 
