@@ -1,8 +1,8 @@
 {
   "name": "nodejs-koa-boilerplate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "NodeJS Koa Boilerplate",
-  "main": "./src/bin/www.js",
+  "main": "./src/index.js",
   "author": "Vlad Morzhanov",
   "license": "MIT",
   "scripts": {
@@ -54,10 +54,5 @@
     "nodemon": "^1.18.4",
     "prettier": "^1.10.2",
     "prettier-eslint": "^8.8.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VladMorzhanov/nodejs-boilerplate.git"
-  },
-  "homepage": "https://github.com/VladMorzhanov/nodejs-boilerplate#readme"
+  }
 }
