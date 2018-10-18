@@ -11,6 +11,7 @@ createDatabaseConnection().then(connection => {
 
   const container = configureContainer(connection)
   const app = createApp(container)
+  
 
   const server = http.createServer(app.callback())
 
